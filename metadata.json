@@ -1,0 +1,6 @@
+{
+  "name": "CEO Email Dashboard",
+  "description": "An email dashboard for CEOs to review prioritized Gmails, select contact profiles, read email summaries, and send draft replies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
